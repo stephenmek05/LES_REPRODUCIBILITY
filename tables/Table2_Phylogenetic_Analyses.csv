@@ -1,0 +1,8 @@
+"Analysis","Statistic","Value","P_value"
+"Blomberg's K","K",0.012,"0.001"
+"Pagel's lambda","Lambda",0.918,"<0.001"
+"Phylogenetic ANOVA","F",524.25,"0.004"
+"PGLS","F",58.54,"<0.001"
+"PGLS","Lambda (ML)",0.87,"-"
+"Mixed model","Marginal R2",0.306,"-"
+"Mixed model","Conditional R2",0.68,"-"

@@ -1,0 +1,15 @@
+# RStudio / R
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Raw TRY data
+data/raw/49929.txt
+
+# Temporary analysis backups
+R/LES_full_analysis_before_portability.R
+R/LES_full_analysis_pre_cleanup.R
+

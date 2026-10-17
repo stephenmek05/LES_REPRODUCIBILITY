@@ -1,0 +1,46 @@
+"forms","n"
+"herb",55819
+"tree",29089
+"shrub",26056
+"climber",16318
+"shrub, tree",8601
+"graminoid",8082
+"graminoid, herb",7970
+"herb, shrub",4652
+"climber, herb",1604
+"climber, shrub",1383
+"herb, shrub, tree",1192
+"herb, tree",1096
+"climber, shrub, tree",1027
+"climber, herb, shrub",694
+"climber, tree",662
+"climber, herb, shrub, tree",524
+"fern",445
+"fern, herb",340
+"climber, herb, tree",301
+"graminoid, herb, tree",177
+"graminoid, herb, shrub",108
+"climber, graminoid, herb",87
+"graminoid, herb, shrub, tree",55
+"fern, herb, tree",41
+"climber, graminoid",25
+"climber, graminoid, herb, shrub, tree",23
+"graminoid, shrub",21
+"climber, graminoid, herb, tree",19
+"climber, fern, herb, tree",18
+"fern, tree",17
+"graminoid, tree",15
+"climber, graminoid, herb, shrub",13
+"climber, fern, herb, shrub, tree",10
+"fern, herb, shrub, tree",10
+"climber, fern, herb",7
+"fern, herb, shrub",7
+"graminoid, shrub, tree",5
+"climber, fern",4
+"fern, graminoid, herb",4
+"climber, graminoid, shrub",2
+"climber, graminoid, tree",2
+"climber, fern, graminoid, herb, shrub, tree",1
+"climber, fern, tree",1
+"fern, shrub",1
+"fern, shrub, tree",1

@@ -1,0 +1,23 @@
+$chi_square_filtering
+
+	Pearson's Chi-squared test
+
+data:  rbind(before_counts$n_before, after_counts$n_after)
+X-squared = 442.78, df = 4, p-value < 2.2e-16
+
+
+$ambiguous_species_n
+[1] 1282
+
+$ambiguous_species_prop
+[1] 0.3998752
+
+$strict_dataset_n
+[1] 1924
+
+$original_eta_squared
+[1] 0.401406
+
+$strict_eta_squared
+[1] 0.4880777
+
